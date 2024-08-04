@@ -3,8 +3,8 @@ import axios from "axios";
 
 export async function productsData(){
     const products = await axios.get(
-            "https://fakestoreapiserver.vercel.app/amazonproducts"
-        
+          
+         "https://meesho-backend-eight.vercel.app/"
     );
         
     return products
