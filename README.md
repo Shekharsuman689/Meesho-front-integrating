@@ -4,7 +4,7 @@
 This project is a front-end web application modeled after Meesho, utilizing React.js to deliver an engaging and user-friendly shopping experience. The app enables users to explore products, manage their shopping cart, and handle authentication with ease. By incorporating contemporary design principles and strong state management, the project ensures a seamless and responsive user interface.
 
 ## Deployment
-The application is deployed on vercel and can be accessed at: https://meesho-clone-app-xi.vercel.app/
+The application is deployed on vercel and can be accessed at: https://meesho-front-integrating.vercel.app/
 
 ## Screenshots
 1. Home Page
@@ -53,7 +53,7 @@ The application is deployed on vercel and can be accessed at: https://meesho-clo
 
 ## How to Run:
 
-### **Clone the repository:** https://github.com/Shekharsuman689/meesho-clone-app.git
+### **Clone the repository:** https://github.com/Shekharsuman689/Meesho-front-integrating.git
 ```bash
 git clone 
 cd Meesho-Webapp
@@ -95,4 +95,4 @@ Meesho WebApp was developed to provide users with a seamless shopping experience
 6. **Documentation:** Comprehensive documentation was created to guide developers and users through the application's setup, usage, and deployment. This documentation provides clear instructions and explanations for each step, making it easy to understand and utilize the app effectively.
 
 ## Deployment 
-https://meesho-clone-app-xi.vercel.app/
+https://meesho-front-integrating.vercel.app/
