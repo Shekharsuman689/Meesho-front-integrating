@@ -4,7 +4,8 @@ import axios from "axios";
 export async function productsData(){
     const products = await axios.get(
           
-         "https://meesho-backend-eight.vercel.app/"
+       
+        "https://messho-backend.onrender.com/api/product/details"
     );
         
     return products
