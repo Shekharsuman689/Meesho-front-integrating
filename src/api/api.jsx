@@ -3,9 +3,7 @@ import axios from "axios";
 
 export async function productsData(){
     const products = await axios.get(
-          
-       
-        "https://messho-backend.onrender.com/api/product/details"
+        "https://meesho-backend-1qyx.onrender.com/api/product/details"
     );
         
     return products
